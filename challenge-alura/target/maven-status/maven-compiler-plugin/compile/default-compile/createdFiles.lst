@@ -1,0 +1,8 @@
+br/com/alura/challenge_alura/GutendexClient.class
+br/com/alura/challenge_alura/ChallengeAluraApplication.class
+br/com/alura/challenge_alura/LivroDAO.class
+br/com/alura/challenge_alura/MenuPrincipal.class
+br/com/alura/challenge_alura/ConexaoBancoDados.class
+br/com/alura/challenge_alura/Livro.class
+br/com/alura/challenge_alura/GutendexParser.class
+br/com/alura/challenge_alura/APIClient.class
